@@ -1,0 +1,5 @@
+t add .
+
+git commit -m '6-multiple_permissions'
+
+git push
